@@ -14,3 +14,5 @@ Create Table ManchesterUnited(
     Date_of_Birth Date Not Null,
     Wage Decimal(10,2)
 );
+
+Describe ManchesterUnited;
