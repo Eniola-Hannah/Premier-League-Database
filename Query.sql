@@ -82,3 +82,5 @@ Insert Into ManchesterUnited (
 (9, 'Anthony', 'Martial', 29, 'Forward', 'Red, White', 'French', 'Right', '1995-12-05', 250000.00),
 (5, 'Harry', 'Maguire', 31, 'Defender', 'Red, White', 'English', 'Right', '1993-03-05', 190000.00),
 (13, 'Christian', 'Eriksen', 32, 'Midfielder', 'Red, White', 'Danish', 'Right', '1992-02-14', 150000.00);
+
+Select * From ManchesterUnited;
